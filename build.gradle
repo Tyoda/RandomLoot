@@ -29,7 +29,6 @@ dependencies {
     }else{
         implementation 'org.gotti.wurmunlimited:common:4596061'
     }
-    compileOnly 'com.github.Tyoda:ModelMeImpressed:2.2'
     implementation 'org.gotti.wurmunlimited:server-modlauncher:0.45'
 }
 
